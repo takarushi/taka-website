@@ -10,4 +10,6 @@ The site itself is really plain but it should work on most platforms
 
 So, enjoy this shitty code and do whatever you want with it as long is inside of the terms of the MIT License :^).
 
-
+## Credits
+#
+Thanks to @makzk for the OwO emote hosted on [OwO](owo.cl), which is indeed good.
