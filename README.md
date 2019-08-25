@@ -12,4 +12,4 @@ So, enjoy this shitty code and do whatever you want with it as long is inside of
 
 ## Credits
 #
-Thanks to @makzk for the OwO emote hosted on [OwO](owo.cl), which is indeed good.
+Thanks to @makzk for the OwO emote hosted on [OwO](https://owo.cl), which is indeed good.
