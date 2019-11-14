@@ -9,6 +9,8 @@ The site itself is really plain but it should work on most platforms
   >(Of course i can't totally be sure that this page works on your 2.5G connection, but it can on a 3G connection and better)
 
 So, enjoy this shitty code and do whatever you want with it as long is inside of the terms of the MIT License :^).
+##
+![Preview](https://i.imgur.com/x5zV5ZC.jpg)
 
 ## Credits
 #
