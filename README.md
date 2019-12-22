@@ -12,6 +12,3 @@ So, enjoy this shitty code and do whatever you want with it as long is inside of
 ##
 ![Preview](https://i.imgur.com/x5zV5ZC.jpg)
 
-## Credits
-#
-Thanks to @makzk for the OwO emote hosted on [OwO](https://owo.cl), which is indeed good.
