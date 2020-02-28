@@ -1,5 +1,7 @@
-## Takarushi's website
-#
+# Takarushi's website
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/27c58edb-95b4-49fc-807f-3de6b639addd/deploy-status)](https://app.netlify.com/sites/takarushi/deploys)
+
 Welcome to the repository where i host my actual website, this one was made on Bootstrap 4 instead of Bulma which was the framework that my old site used (closed-source, no plans to release, sorry!), 
 
 The site itself is really plain but it should work on most platforms 
