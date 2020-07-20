@@ -1,4 +1,4 @@
-baseURL = "https://next.takarushi.me/"
+baseURL = "https://takarushi.me/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "takarushi"
@@ -36,11 +36,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         [[params.links]]
         icon = "instagram"
         title = "Instagram"
-        url = "https://twitter.com/_rtakaru"
+        url = "https://twitter.com/rtakaru.jpg"
 
         [[params.links]]
         iconset = "fas"
         icon = "blog"
         title = "Blog"
         url = "https://blog.takarushi.me"
+
 
