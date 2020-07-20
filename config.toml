@@ -1,0 +1,46 @@
+baseURL = "https://takarushi.me/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hallo"
+theme = "hallo"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Taka"
+
+[params]
+
+    greeting = "Hola! 👋"
+
+	[params.colors]
+        background = "#000000"
+        foreground = "#ffffff"
+        hover = "#45da8c"
+		
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:me@takarushi.me"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/takarushi"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/_rtakaru"
+      
+        [[params.links]]
+        icon = "instagram"
+        title = "Instagram"
+        url = "https://twitter.com/_rtakaru"
+
+        [[params.links]]
+        iconset = "fas"
+        icon = "blog"
+        title = "Blog"
+        url = "https://blog.takarushi.me"
+
