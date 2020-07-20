@@ -1,7 +1,7 @@
 baseURL = "https://takarushi.me/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Hallo"
+title = "takarushi"
 theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
