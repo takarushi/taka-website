@@ -6,7 +6,7 @@ theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Izu K."
+    name = "Izu K"
 
 [params]
 
