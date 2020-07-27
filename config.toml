@@ -1,12 +1,12 @@
 baseURL = "https://takarushi.me/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "takarushi"
+title = "Izuku Kirishima"
 theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Taka"
+    name = "Izu K."
 
 [params]
 
