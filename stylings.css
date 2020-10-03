@@ -4,12 +4,13 @@
 }
 body {
     font-family: "Cabin", "sans-serif";
+    color: #FFFFFF
 }
 
 /* Navbar owowowowo! */
 
 .nav-container {
-    background: 000000;
+    background: #000000;
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
     height: 72px;
 }
@@ -18,8 +19,8 @@ body {
 }
 nav {
     display: flex;
-    align-items: left;
-    justify-content: space-between;
+    align-items: center;
+    justify-content: left;
     height: 72px;
 }
 nav ul {
@@ -37,5 +38,13 @@ nav .logo {
 .header-container {
     background: #000000 url('assets/bg.svg');
     background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    height: calc(100vh - 72px);
+    display: flex;
 }
+header {
+    display: flex;
+    justify-content: left;
 }
+
