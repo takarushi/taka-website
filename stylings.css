@@ -42,9 +42,11 @@ nav .logo {
     background-size: contain;
     height: calc(100vh - 72px);
     display: flex;
+    align-items: center;
 }
 header {
     display: flex;
+    align-items: center;
     justify-content: left;
 }
 
